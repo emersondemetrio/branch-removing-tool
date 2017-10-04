@@ -7,4 +7,3 @@ Removing old branchs from your local copy
 
 
 ```./run.sh```
-
